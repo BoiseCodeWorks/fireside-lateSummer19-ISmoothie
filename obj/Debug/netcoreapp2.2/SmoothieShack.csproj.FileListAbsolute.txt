@@ -1,0 +1,11 @@
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/bin/Debug/netcoreapp2.2/SmoothieShack.deps.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/bin/Debug/netcoreapp2.2/SmoothieShack.runtimeconfig.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/bin/Debug/netcoreapp2.2/SmoothieShack.runtimeconfig.dev.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/bin/Debug/netcoreapp2.2/SmoothieShack.dll
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/bin/Debug/netcoreapp2.2/SmoothieShack.pdb
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.csprojAssemblyReference.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.csproj.CoreCompileInputs.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.AssemblyInfoInputs.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.AssemblyInfo.cs
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.dll
+/Users/catherine/source/codeworks/TA-Business/firesides/week9/SmoothieShack/obj/Debug/netcoreapp2.2/SmoothieShack.pdb
